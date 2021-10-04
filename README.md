@@ -1,10 +1,10 @@
 ## Caderno Filipe
 
 ## 1ºTrabalho
--Que mais exemplos me podem dar:
-  -Viagens a um sítio novo: **No Man's Sky**
-  -Encarnar uma personagem diferente: **World Of Warcraft**
-  -Fazer algo inacessível na vida real: **Saints Row**
+- Que mais exemplos me podem dar:
+  - Viagens a um sítio novo: **No Man's Sky**
+  - Encarnar uma personagem diferente: **World Of Warcraft**
+  - Fazer algo inacessível na vida real: **Saints Row**
 
 ### Markdown
 
