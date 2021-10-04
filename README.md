@@ -1,9 +1,10 @@
 ## Caderno Filipe
 
-TESTETESTWESTE
-You can use the [editor on GitHub](https://github.com/Filipecerqueira99/CadernoJogosIPMAIA/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 1ºTrabalho
+-Que mais exemplos me podem dar:
+  -Viagens a um sítio novo: **No Man's Sky**
+  -Encarnar uma personagem diferente: **World Of Warcraft**
+  -Fazer algo inacessível na vida real: **Saints Row**
 
 ### Markdown
 
