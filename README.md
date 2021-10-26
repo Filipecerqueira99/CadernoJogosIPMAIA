@@ -4,7 +4,7 @@
 - Que mais exemplos me podem dar:
   - Viagens a um sítio novo: 
   **No Man's Sky**
-  - ![nomanssky](https://user-images.githubusercontent.com/46561409/138929312-655aaf3b-500d-40f5-b0ea-821c01fb5c35.jpg)
+  - aaa ![nomanssky](https://user-images.githubusercontent.com/46561409/138929312-655aaf3b-500d-40f5-b0ea-821c01fb5c35.jpg)
   - Encarnar uma personagem diferente: **World Of Warcraft**
 
   - Fazer algo inacessível na vida real: **Saints Row**
