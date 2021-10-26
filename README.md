@@ -7,7 +7,8 @@
   - Encarnar uma personagem diferente: **World Of Warcraft**
   - ![wow](https://user-images.githubusercontent.com/46561409/138930151-add150b4-55ff-4843-967e-b495e577c75f.jpg)
   - Fazer algo inacessível na vida real: **Saints Row**
-  - ![SaintsRow](https://user-images.githubusercontent.com/46561409/138930166-e42b3c0b-e686-4787-a67c-15cff777b3b9.jpg)
+  - ![SaintsRow](https://user-images.githubusercontent.com/46561409/138930315-9220ecd6-4852-46e8-b07e-b489b219559c.jpg)
+
 
 ### EXEMPLOS DE TABULAÇÃO - IGNORAR!
 
