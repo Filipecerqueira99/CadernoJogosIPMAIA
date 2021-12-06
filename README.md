@@ -17,7 +17,7 @@ Aqui irei documentar conteúdos relacionados com a disciplina de Desenvolvimento
 **Karting Mini Game**
 
 O jogo de karting tal como o nome refere é um jogo bastante básico, onde tem como prefeito uma pista não terminada e um sistema de checkpoints funcional.
-O objetivo deste tuturial é completar a pista e fazermos alguma edição geral, desde checkpoints, a cores, a decoração, etc.
+O objetivo deste tutorial é completar a pista e fazermos alguma edição geral, desde checkpoints, a cores, a decoração, etc.
  - Durante este processo os passos que eu efetuei foram:
   - Alteração da cor do Kart;
   - Mudança radical no layout da pista, criando, multiplos saltos, speedzones, curvas apertadas, curvas longas;
@@ -27,13 +27,37 @@ O objetivo deste tuturial é completar a pista e fazermos alguma edição geral,
   - Criação de uma lagoa;
   - Adicionados novos assets da unity asset store;
 
-
-
-**Plataformer MicroGame**
-
 ![Screenshot_5](https://user-images.githubusercontent.com/46561409/144858259-63d9334b-164c-44b3-83fd-58716c425909.png)
 ![Screenshot_6](https://user-images.githubusercontent.com/46561409/144858374-46c162cc-bad2-4bae-83fa-574729cade20.png)
 ![Screenshot_7](https://user-images.githubusercontent.com/46561409/144858386-8d26bdfa-02e0-4f18-b0ca-0f19becb64cb.png)
+
+**Plataformer MicroGame**
+
+Este microgame é um jogo clássico de plataforma 2D em que consiste num boneco completar todo o percurso, sem morrer ao longo do mesmo e da maneira mais rápida possível.
+Neste tutorial foi elaborado:
+  - Adicionar cores aos objetos, o jogo de origem é completamente netru, só tendo 2 ou 3 cores;
+  - Adicionar um rasto de cor no percurso que o boneco faz;
+  - Animar o mundo, criando animações para os objetos de decoração;
+  - Adicionado confettis de celebração;
+  - Adicionado speed e bounce pads;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### EXEMPLOS DE TABULAÇÃO - IGNORAR!
 
