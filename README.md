@@ -25,9 +25,15 @@ O objetivo deste tuturial é completar a pista e fazermos alguma edição geral,
   - Alterada a mecânica de como o Kart se comporta em pista (mais acelaração e travagem e mais grip);
   - Multiplos objetos decorativos e de apoio ao trajeto da pista, fazendo a ondução tanto em pista como no mapa;
   - Criação de uma lagoa;
+  - Adicionados novos assets da unity asset store;
+
+
 
 **Plataformer MicroGame**
 
+![Screenshot_5](https://user-images.githubusercontent.com/46561409/144858259-63d9334b-164c-44b3-83fd-58716c425909.png)
+![Screenshot_6](https://user-images.githubusercontent.com/46561409/144858374-46c162cc-bad2-4bae-83fa-574729cade20.png)
+![Screenshot_7](https://user-images.githubusercontent.com/46561409/144858386-8d26bdfa-02e0-4f18-b0ca-0f19becb64cb.png)
 
 ### EXEMPLOS DE TABULAÇÃO - IGNORAR!
 
