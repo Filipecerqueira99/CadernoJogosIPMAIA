@@ -41,6 +41,9 @@ Neste tutorial foi elaborado:
   - Adicionado confettis de celebração;
   - Adicionado speed e bounce pads;
 
+![image](https://user-images.githubusercontent.com/46561409/144859226-73d3161b-979a-4ced-bec8-f9d4072f4dee.png)
+![image](https://user-images.githubusercontent.com/46561409/144859253-548884e0-da9f-4dd0-ab6d-3b3a9fc7ddab.png)
+![image](https://user-images.githubusercontent.com/46561409/144859286-bd0ee26b-72f6-4bf7-97f9-7833e38a68be.png)
 
 
 
